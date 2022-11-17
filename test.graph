@@ -1,0 +1,23 @@
+<!DOCTYPE GraphData>
+<Graph>
+    <Mode>Line Graph</Mode>
+    <PlotData>
+        <Title>Some Title</Title>
+        <Footer>Some Footer</Footer>
+        <XLabel>X</XLabel>
+        <YLabel>Y</YLabel>
+        <ZLabel>Z</ZLabel>
+        <DataLines>
+            <Line>10 0 10 </Line>
+            <Line>20 10 30 </Line>
+            <Line>30 0 40 </Line>
+            <Line>40 20 10 </Line>
+            <Line>50 5 10 </Line>
+            <Line>60 15 20 </Line>
+            <Line>70 0 30 </Line>
+            <Line>80 20 10 </Line>
+            <Line>90 0 10 </Line>
+            <Line>100 10 0 </Line>
+        </DataLines>
+    </PlotData>
+</Graph>

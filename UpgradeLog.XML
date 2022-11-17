@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OGLTest">
+</Property><Property Name="Solution File" Value="C:\Users\Farid\Desktop\Projects\OGLTest\OGLTest.sln">
+</Property><Property Name="Date" Value="Montag, 11. Januar 2010">
+</Property><Property Name="Time" Value="22:34:08">
+</Property></Properties><Event ErrorLevel="2" Project="OGLTest" Source="OGLTest.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: C:\Users\Farid\Desktop\Projects\OGLTest\OGLTest.vcproj&#xA;Line: 1&#xA;Column: 1&#xA;Error Message:&#xA;Incorrect document syntax.&#xA;&#xA;The file 'C:\Users\Farid\Desktop\Projects\OGLTest\OGLTest.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="OGLTest" Source="OGLTest.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="OGLTest" Source="OGLTest.vcproj" Description="Not Converted">
+</Event></UpgradeLog>

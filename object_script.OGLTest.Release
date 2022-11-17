@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\MainWindow.o
+./release\GraphWidget.o
+./release\GraphWindow.o
+./release\AddGraphDialog.o
+./release\TrackBall.o
+./release\moc_MainWindow.o
+./release\moc_GraphWidget.o
+./release\moc_GraphWindow.o
+./release\moc_AddGraphDialog.o
+);
